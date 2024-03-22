@@ -30,6 +30,23 @@ Data set was taken from Kaggle provided by LUKE BAROUSSE [Data Analyst Job Posti
 ### The analysis's goal
 This analysis helps us better understand the top skills needed for a data analyst job and gain more insight into this profession.
 
+## Main body
+
+### Questions
+- What is the average, minimum, and maximum salary for a data analyst position?
+- Which skills are most frequently mentioned in job postings?
+- Which platform posted the highest number of jobs?
+- Which companies posted the highest number of jobs?
+- Which location has the highest number of job postings?
+- Which type of work occurs most frequently?
+  
+
+
+
+
+
+
+
 ### Company background
 FurniTech Solutions operates in the retail industry, specialising in online sales of furniture, office supplies and technology.
 
