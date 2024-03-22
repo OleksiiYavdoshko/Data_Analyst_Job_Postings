@@ -41,14 +41,10 @@ This analysis helps us better understand the top skills needed for a data analys
 - Which type of work occurs most frequently?
   
 ## Analysis
-sql code
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 
-#reading the csv
-dataframe = pd.read_csv('gsearch_jobs.csv', header=0, sep=',')
-dataframe.head()
+[](Data_Analyst_Job_Posting.ipynb)
+
+
 
 
 
